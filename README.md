@@ -8,8 +8,7 @@ In the realm of plant disease detection, a captivating narrative unfolds as cutt
 
 The objective of the paper is to develop a reliable and accurate plant disease recognition model using deep convolutional neural networks (CNNs) trained on leaf images. The paper aims to facilitate quick and easy system implementation in practice by presenting a novel approach to leaf image classification. The model is designed to distinguish between healthy leaves and diseased ones or from the environment by using CNN. The paper highlights the importance of timely and accurate diagnosis of plant diseases in precision agriculture, as inexperienced pesticide usage can cause the development of long-term resistance of the pathogens. The model achieves an overall accuracy of 96.77% when trained on the whole database containing both original and augmented images. The study emphasizes the potential of deep learning methods in automatically classifying and detecting plant diseases from leaf images, contributing to the field of plant disease recognition.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/10159701/9c63dbac-9894-4ba1-a06d-b9f092f2569f/Plant Disease Detection Using Convolutional Neural Network.pdf
+
 
 ### Data Description and Models Used
 
